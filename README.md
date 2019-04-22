@@ -25,7 +25,7 @@ We use fish, just run `fish`
 - In `fish`
 
   ```sh
-  chsh -s (which fish)
+  chsh -s $(which fish)
   ```
 
 ## Troubleshooting
